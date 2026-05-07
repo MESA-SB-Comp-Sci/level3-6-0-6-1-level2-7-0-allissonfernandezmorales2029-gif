@@ -5,3 +5,15 @@
 }
 
 /* write all your rules below */
+.h1{
+    border: 7px solid red;
+    padding: 5;
+    background-color: pink;
+    justify-content: space-between;
+}
+.box-1{
+    background-color: rgb(19, 224, 224);
+    border: rgb(8, 184, 184);
+    justify-content: space-around
+
+}
