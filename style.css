@@ -9,11 +9,35 @@
     border: 7px solid red;
     padding: 5;
     background-color: pink;
-    justify-content: space-between;
+   margin: 20px;
 }
 .box-1{
     background-color: rgb(19, 224, 224);
-    border: rgb(8, 184, 184);
+    padding: 80px;
     justify-content: space-around
 
 }
+
+.box-2{
+    background-color: yellow;
+   border:7px solid pink;
+   margin:  5vw;
+   padding: 5%;
+}
+
+
+.text-1{
+    color:blue;
+}
+.text-2{
+    color:green;
+}
+
+.text-3{
+    color:purple;
+}
+.text-4{
+    color:purple;
+}
+ 
+
